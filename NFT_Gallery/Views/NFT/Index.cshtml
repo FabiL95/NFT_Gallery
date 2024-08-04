@@ -1,0 +1,22 @@
+﻿@model List<NFT_Gallery.Models.NFT>
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="row mb-4">
+    @foreach (var item in Model)
+    {
+        <div class="col-6">
+            <div class="d-flex justify-content-center mt-4">
+                <h4>@item.Name</h4>
+            </div>
+            <div class="d-flex justify-content-center">
+                <img src="/nfts/@item.ImageURL" width="65%" style="border-radius: 15px" />
+            </div>
+
+            <div class="d-flex justify-content-center mt-4">
+                <a class="btn" asp-controller="NFT" asp-action="Details" asp-route-id="@item.Id">Details</a>
+            </div>
+        </div>
+    }
+</div>

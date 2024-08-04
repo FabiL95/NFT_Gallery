@@ -7,6 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\nfts\Boomer1.jpg" />
+    <None Include="wwwroot\nfts\Boomer2.jpg" />
+    <None Include="wwwroot\nfts\Boomer3.jpg" />
+    <None Include="wwwroot\nfts\Boomer4.jpg" />
+    <None Include="wwwroot\nfts\Boomer5.jpg" />
+    <None Include="wwwroot\nfts\Cet.png" />
+    <None Include="wwwroot\nfts\SAC1.png" />
+    <None Include="wwwroot\nfts\SAC2.png" />
+    <None Include="wwwroot\nfts\tombstone.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
       <PrivateAssets>all</PrivateAssets>

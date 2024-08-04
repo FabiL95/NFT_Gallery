@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using NFT_Gallery.Data;
+
 namespace NFT_Gallery
 {
     public class Program
@@ -8,6 +11,9 @@ namespace NFT_Gallery
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<NFTGalleryDBContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
 
             var app = builder.Build();
 
