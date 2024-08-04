@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFT_Gallery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f86ff85e558e62ddcf8947717f4d5e3e7eff9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1f41111fd44db0c977b0ad2f4f26d133f3e34e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFT_Gallery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFT_Gallery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
