@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\views\\nft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\nft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\controllers\\nftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\controllers\\nftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\controllers\\nftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\views\\nft\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\nft\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\nft_gallery\\nft_gallery\\views\\nft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\nft\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\views\\nft\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|solutionrelative:nft_gallery\\views\\nft\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77F3D951-06EA-4B56-A18D-6634AD65C4E4}|NFT_Gallery\\NFT_Gallery.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\nft_gallery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +74,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NFT_Gallery\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NFT_Gallery\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T18:04:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NFT_Gallery\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NFT_Gallery\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T17:11:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "NFT_Gallery\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "NFT_Gallery\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T17:10:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "NFT_Gallery\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "NFT_Gallery\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T17:08:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\NFT\\Details.cshtml",
               "RelativeDocumentMoniker": "NFT_Gallery\\Views\\NFT\\Details.cshtml",
@@ -70,12 +138,11 @@
               "RelativeToolTip": "NFT_Gallery\\Views\\NFT\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T16:38:31.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T16:38:31.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\NFT\\Index.cshtml",
               "RelativeDocumentMoniker": "NFT_Gallery\\Views\\NFT\\Index.cshtml",
@@ -94,14 +161,14 @@
               "RelativeDocumentMoniker": "NFT_Gallery\\Controllers\\NFTController.cs",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Controllers\\NFTController.cs",
               "RelativeToolTip": "NFT_Gallery\\Controllers\\NFTController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCYAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T16:11:16.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "20240804160922_initial migration.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Migrations\\20240804160922_initial migration.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Migrations\\20240804160922_initial migration.cs",
@@ -113,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Program.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Program.cs",
@@ -125,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\appsettings.json",
               "RelativeDocumentMoniker": "NFT_Gallery\\appsettings.json",
@@ -137,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "NFTGalleryDBContext.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Data\\NFTGalleryDBContext.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Data\\NFTGalleryDBContext.cs",
@@ -149,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "NFTProject.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Models\\NFTProject.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Models\\NFTProject.cs",
@@ -161,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Models\\Project.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Models\\Project.cs",
@@ -173,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "NFT.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Models\\NFT.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Models\\NFT.cs",
@@ -185,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NFT_Gallery\\Controllers\\HomeController.cs",
@@ -197,15 +264,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NFT_Gallery\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NFT_Gallery\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAZAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T11:22:10.486Z"
+              "WhenOpened": "2024-08-04T11:22:10.486Z",
+              "EditorCaption": ""
             }
           ]
         }

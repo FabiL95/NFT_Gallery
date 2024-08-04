@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\NFT_Gallery.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -267,6 +271,14 @@
     {
       "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Cet.png",
       "PackagePath": "staticwebassets\\nfts\\Cet.png"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\NukedApe1.png",
+      "PackagePath": "staticwebassets\\nfts\\NukedApe1.png"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\NukedApe2.png",
+      "PackagePath": "staticwebassets\\nfts\\NukedApe2.png"
     },
     {
       "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\SAC1.png",
