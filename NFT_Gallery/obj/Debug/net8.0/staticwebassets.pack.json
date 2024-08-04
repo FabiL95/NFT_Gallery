@@ -245,6 +245,42 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Boomer1.jpg",
+      "PackagePath": "staticwebassets\\nfts\\Boomer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Boomer2.jpg",
+      "PackagePath": "staticwebassets\\nfts\\Boomer2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Boomer3.jpg",
+      "PackagePath": "staticwebassets\\nfts\\Boomer3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Boomer4.jpg",
+      "PackagePath": "staticwebassets\\nfts\\Boomer4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Boomer5.jpg",
+      "PackagePath": "staticwebassets\\nfts\\Boomer5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\Cet.png",
+      "PackagePath": "staticwebassets\\nfts\\Cet.png"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\SAC1.png",
+      "PackagePath": "staticwebassets\\nfts\\SAC1.png"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\SAC2.png",
+      "PackagePath": "staticwebassets\\nfts\\SAC2.png"
+    },
+    {
+      "Id": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\NFT_Gallery\\NFT_Gallery\\wwwroot\\nfts\\tombstone.png",
+      "PackagePath": "staticwebassets\\nfts\\tombstone.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NFT_Gallery.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

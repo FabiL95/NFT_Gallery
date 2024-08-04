@@ -1,0 +1,51 @@
+﻿@model NFT_Gallery.Models.NFT
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-center">
+        <h4>@Model.Name</h4>
+    </div>
+    <div class="d-flex justify-content-center">
+        <img src="/nfts/@Model.ImageURL" width="50%" style="border-radius: 15px" />
+    </div>
+    <div class="d-flex justify-content-center">
+        <h5>Description:</h5>
+    </div>
+
+    @foreach (var item in Model.NFTProjects)
+    {
+        <div class="d-flex justify-content-center">
+            <p>@item.Project.Description</p>
+        </div>
+
+    }
+    <div class="d-flex justify-content-center">
+        <h5>Price:</h5>
+    </div>
+
+    <div class="d-flex justify-content-center">
+        <p class="price">@Model.Price.ToString("N2") Solana</p>
+    </div>
+    <div class="d-flex justify-content-center">
+        <h5>Links:</h5>
+    </div>
+    <div class="d-flex justify-content-center">
+        <ul>
+            @foreach (var item in Model.NFTProjects)
+            {
+                <li>
+                    <a href="@item.Project.MarketplaceURL" style="color: white; text-decoration: none">Buy</a>
+                </li>
+                <li>
+                    <a href="@item.Project.WebsiteURL" style="color: white; text-decoration: none">Website</a>
+                </li>
+            }
+        </ul>
+    </div>
+    <div class="d-flex justify-content-center">
+        <a class="btn" asp-action="Index" asp-controller="NFT">Back to all NFTs</a>
+    </div>
+</div>
+
